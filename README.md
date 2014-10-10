@@ -1,10 +1,10 @@
 # deploy-center-cookbook
 
-TODO: Enter the cookbook description here.
+Deploys Horntell Center through Chef.
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+Ubuntu currently.
 
 ## Attributes
 
