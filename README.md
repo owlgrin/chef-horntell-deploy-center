@@ -4,7 +4,7 @@ Deploys Horntell Center through Chef.
 
 ## Supported Platforms
 
-Ubuntu currently.
+Ubuntu 14.04.
 
 ## Attributes
 
